@@ -1,1 +1,1 @@
-# PomerantzLab_Human_satellite_cells_Quiescent_vs.Activated_2023
+# PomerantzLab_Human_satellite_cells_Quiescent_vs.Activated

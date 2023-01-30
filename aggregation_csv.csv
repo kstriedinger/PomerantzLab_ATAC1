@@ -1,0 +1,4 @@
+library_id,fragments,cells
+500_activated,/coldstorage/fastq/A00269/201123_A00269_0437_AHVH7MDRXX/HVH7MDRXX/500_activated/outs/fragments.tsv.gz,/coldstorage/fastq/A00269/201123_A00269_0437_AHVH7MDRXX/HVH7MDRXX/500_activated/outs/singlecell.csv
+500_not_activated,/coldstorage/fastq/A00269/201123_A00269_0437_AHVH7MDRXX/HVH7MDRXX/500_not_activated/outs/fragments.tsv.gz,/coldstorage/fastq/A00269/201123_A00269_0437_AHVH7MDRXX/HVH7MDRXX/500_not_activated/outs/singlecell.csv
+HuMuSC_ATAC_1,/coldstorage/fastq/A00269/201123_A00269_0437_AHVH7MDRXX/HVH7MDRXX/HuMuSC_ATAC_1/outs/fragments.tsv.gz,/coldstorage/fastq/A00269/201123_A00269_0437_AHVH7MDRXX/HVH7MDRXX/HuMuSC_ATAC_1/outs/singlecell.csv
